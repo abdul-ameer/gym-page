@@ -1,1 +1,1 @@
-# Simple Gym Landing page with form
+# Gym Landing page 
